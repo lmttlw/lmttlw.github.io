@@ -1,0 +1,10 @@
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\DAL\bin\Debug\DAL.dll
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\DAL\bin\Debug\DAL.pdb
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\DAL\obj\Debug\DAL.dll
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\DAL\obj\Debug\DAL.pdb
+C:\Users\29587\Desktop\星空网\xkw\xkw\DAL\bin\Debug\DAL.dll
+C:\Users\29587\Desktop\星空网\xkw\xkw\DAL\bin\Debug\DAL.pdb
+C:\Users\29587\Desktop\星空网\xkw\xkw\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\29587\Desktop\星空网\xkw\xkw\DAL\obj\Debug\DAL.dll
+C:\Users\29587\Desktop\星空网\xkw\xkw\DAL\obj\Debug\DAL.pdb
