@@ -1,0 +1,14 @@
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\bin\Debug\BLL.dll
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\bin\Debug\BLL.pdb
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\bin\Debug\DAL.dll
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\bin\Debug\DAL.pdb
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\obj\Debug\BLL.dll
+C:\Users\29587\Documents\Visual Studio 2015\Projects\wz\BLL\obj\Debug\BLL.pdb
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\bin\Debug\BLL.dll
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\bin\Debug\BLL.pdb
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\bin\Debug\DAL.dll
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\bin\Debug\DAL.pdb
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\obj\Debug\BLL.dll
+C:\Users\29587\Desktop\星空网\xkw\xkw\BLL\obj\Debug\BLL.pdb
